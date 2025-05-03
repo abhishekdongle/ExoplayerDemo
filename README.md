@@ -1,0 +1,1 @@
+Exoplayer Demo is a simple Android application that demonstrates the use of ExoPlayer for media playback. It includes features such as video playback, audio playback, and a basic user interface for controlling media playback.
